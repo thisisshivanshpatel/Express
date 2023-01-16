@@ -7,6 +7,8 @@ logToFile(true, "express");
 
 // setting view engine
 app.set("view engine", "ejs");
+
+// setting json parser
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 // setting middleware application wide
