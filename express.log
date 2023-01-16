@@ -1,0 +1,94 @@
+[info]:17:38:51 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:39:5 home route
+[info]:17:39:30 home route
+[info]:17:40:43 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:41:4 home route
+[info]:17:41:16 home route
+[info]:17:41:38 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:41:40 home route
+[info]:17:41:58 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:42:0 home route
+[info]:17:43:36 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:45:50 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:58:53 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:17:58:57 home route
+[info]:17:59:2 home route
+[info]:18:1:27 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:18:2:1 home route
+[info]:18:2:50 home route
+[info]:18:4:9 home route
+[info]:18:4:16 home route
+[info]:18:4:42 home route
+[info]:18:4:52 home route
+[info]:19:9:31 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:10:13 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:10:23 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:11:41 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:12:50 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:14:55 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:15:27 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:15:37 users list
+[info]:19:15:58 users new form
+[info]:19:18:1 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:24:40 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:19:26:55 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:0:46 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:1:40 users new form
+[info]:10:2:2 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:2:14 home route
+[info]:10:6:12 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:6:40 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:11:55 SERVER IS LISTENING AT PORT NUMBER 3001
+[debug]:10:12:7 we get the id 1102
+[info]:10:15:30 SERVER IS LISTENING AT PORT NUMBER 3001
+[debug]:10:15:37 we get the id 1
+[info]:10:15:37 [object Object]
+[info]:10:16:29 SERVER IS LISTENING AT PORT NUMBER 3001
+[debug]:10:16:31 we get the id 1
+[info]:10:16:31 {"name":"Anurag"}
+[debug]:10:17:12 we get the id 0
+[info]:10:17:12 {"name":"shivansh"}
+[info]:10:23:53 SERVER IS LISTENING AT PORT NUMBER 3001
+[warn]:10:24:2 /
+[info]:10:24:2 home route
+[info]:10:24:11 users list
+[info]:10:24:27 users new form
+[info]:10:25:15 SERVER IS LISTENING AT PORT NUMBER 3001
+[warn]:10:25:17 /users/new
+[info]:10:25:17 users new form
+[warn]:10:25:26 /users
+[info]:10:25:26 users list
+[warn]:10:25:38 /users/1
+[debug]:10:25:38 we get the id 1
+[info]:10:25:38 {"name":"Anurag"}
+[info]:10:28:22 SERVER IS LISTENING AT PORT NUMBER 3001
+[warn]:10:28:33 /
+[info]:10:28:33 home route
+[info]:10:28:56 users list
+[info]:10:29:54 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:34:28 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:39:2 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:39:6 users new form
+[info]:10:39:50 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:39:53 users new form
+[info]:10:41:31 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:43:26 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:43:38 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:44:41 users new form
+[info]:10:44:50 users new form
+[info]:10:47:43 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:48:12 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:49:41 SERVER IS LISTENING AT PORT NUMBER 3001
+[debug]:10:50:4 we get the id 3
+[info]:10:50:4 {"name":"Ajay"}
+[info]:10:50:21 SERVER IS LISTENING AT PORT NUMBER 3001
+[error]:10:50:34 Error
+[info]:10:50:56 SERVER IS LISTENING AT PORT NUMBER 3001
+[error]:10:51:1 Error
+[info]:10:51:6 SERVER IS LISTENING AT PORT NUMBER 3001
+[info]:10:51:21 SERVER IS LISTENING AT PORT NUMBER 3001
+[debug]:10:51:35 we get the id 3
+[info]:10:51:35 {"name":"salman"}
+[debug]:10:51:49 we get the id 4
+[info]:10:51:49 {"name":"abcd"}
+[info]:10:52:49 SERVER IS LISTENING AT PORT NUMBER 3001
